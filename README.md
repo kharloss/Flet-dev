@@ -15,3 +15,10 @@ Common mistakes to avoid
 Resources and examples
 
 This should serve as a helpful reference for AI assistants working with Flet projects!
+
+Quick Start
+Option 1: Quick Build
+Reference the file with your instruction:
+
+@AGENTS.md build a To-Do app in Python using Flet framework and then publish it as a desktop, mobile or web app
+The AI builds your app immediately, asking only clarifying questions if needed.
